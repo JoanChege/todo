@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F2E2DE;
+}
+
+.navbar {
+    background-color: #F2E2DE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-brand{
+    margin: 1rem auto;
+}
+.navbar-brand img{
+    width: 200px;
+    height:auto;
+}
+
+.input-group{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h5{
+    color: #182524;
+}
+
+.list-group{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-center{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: 800;
+    font-style: italic;
+}
